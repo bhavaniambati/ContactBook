@@ -44,60 +44,70 @@ public class PersonalDetails
 		public void setId(int id){
 		this.id=id;
 		}
+		
 	public String getName() {
 		return name;
 	}
 	public void setName(String name) {
 		this.name = name;
 	}
+	
 	public long getTelno() {
 		return telno;
 	}
 	public void setTelno(long telno) {
 		this.telno = telno;
 	}
+	
 	public String getDob() {
 		return dob;
 	}
 	public void setDob(String dob) {
 		this.dob = dob;
 	}
+	
 	public String getAddress() {
 		return address;
 	}
 	public void setAddress(String address) {
 		this.address = address;
 	}
+	
 	public String getNickname() {
 		return nickname;
 	}
 	public void setNickname(String nickname) {
 		this.nickname = nickname;
 	}
+	
 	public String getType() {
 		return type;
 	}
 	public void setType(String type) {
 		this.type = type;
 	}
+	
 	public String getRelationship() {
 		return relationship;
 	}
 	public void setRelationship(String relationship) {
 		this.relationship = relationship;
 	}
+	
 	public String getWebsite() {
 		return website;
 	}
 	public void setWebsite(String website) {
 		this.website = website;
 	}
+	
 	public String getCompanyname() {
 		return companyname;
 	}
 	public void setCompanyname(String companyname) {
 		this.companyname = companyname;
 	}
+	
 	public long getLandlineno() {
 		return landlineno;
 	}
